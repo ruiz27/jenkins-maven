@@ -11,6 +11,7 @@ public class JenkinsMavenProjectApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println(":::::: EJECUCION DE PRUEBA ::::::");
 	}
 
 }
